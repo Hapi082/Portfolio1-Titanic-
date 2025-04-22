@@ -1,4 +1,4 @@
-#Titanic生存予測チャレンジ（XGBClassifier）
+# Titanic生存予測チャレンジ（XGBClassifier）
 
 本プロジェクトは、[KaggleのTitanicコンペ](https://www.kaggle.com/c/titanic)で乗客の生存率予測を行います。
 データ分析力や機械学習スキル向上を目的としています。
